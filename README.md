@@ -37,7 +37,7 @@ You will also need to install the `jetson_inference` and `jetson_utils` librarie
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Yeetsomepickles999/JetsonNanoRockPaperScizzorsGame.git
+git clone https://github.com/ArushM09/JetsonNanoRockPaperScizzorsGame.git
 ```
 
 2. Navigate to the project directory:
@@ -153,7 +153,7 @@ Contributions to this project are more than welcome! If you have ideas for impro
 
 ## GitHub Repository
 
-Find the project on GitHub: [https://github.com/Yeetsomepickles999/JetsonNanoRockPaperScizzorsGame](https://github.com/Yeetsomepickles999/JetsonNanoRockPaperScizzorsGame)
+Find the project on GitHub: [https://github.com/ArushM09/JetsonNanoRockPaperScizzorsGame](https://github.com/ArushM09/JetsonNanoRockPaperScizzorsGame)
 
 ## YouTube Demo
 
